@@ -51,10 +51,10 @@ http://iptv.matthuisman.nz/au/Sydney/tv.320203000304.m3u8
 #EXTINF:-1 tvg-name="013" tvg-id="Fox Sports News HD" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.fox.sports.news.png" group-title="Australian FreeView Channels",Fox Sports News
 http://iptv.matthuisman.nz/au/Sydney/tv.fox.sports.news.m3u8
 
-#EXTINF:-1 tvg-name="014" tvg-id="tv.320203000305" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.320203000305.png" group-title="Australian FreeView Channels",NITV
+#EXTINF:-1 tvg-name="014" tvg-id="NITV AUS" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.320203000305.png" group-title="Australian FreeView Channels",NITV
 http://iptv.matthuisman.nz/au/Sydney/tv.320203000305.m3u8
 
-#EXTINF:-1 tvg-name="015" tvg-id="tv.101305020528" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.101305020528.png" group-title="Australian FreeView Channels",RACING.COM
+#EXTINF:-1 tvg-name="015" tvg-id="RACING.COM" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.101305020528.png" group-title="Australian FreeView Channels",RACING.COM
 http://iptv.matthuisman.nz/au/Sydney/tv.101305020528.m3u8
 
 #EXTINF:-1 tvg-name="016" tvg-id="tv.redbull.tv" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.redbull.tv.png" group-title="Australian FreeView Channels",Redbull TV
