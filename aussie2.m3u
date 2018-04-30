@@ -30,7 +30,7 @@ http://iptv.matthuisman.nz/au/Sydney/tv.101002210220.m3u8
 #EXTINF:-1 tvg-name="010" tvg-id="tv.101002210222" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.101002210222.png" group-title="Australian FreeView Channels",ABC2 / KIDS
 http://iptv.matthuisman.nz/au/Sydney/tv.101002210222.m3u8
 
-#EXTINF:-1 tvg-name="011" tvg-id="tv.101204200421" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.101204200421.png" group-title="Australian FreeView Channels",Channel 9
+#EXTINF:-1 tvg-name="011" tvg-id="tv.101204200421" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.101204200421.png" group-title="Australian FreeView Channels",9Nine
 http://iptv.matthuisman.nz/au/Sydney/tv.101204200421.m3u8
 
 #EXTINF:-1 tvg-name="012" tvg-id="tv.320203000304" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.320203000304.png" group-title="Australian FreeView Channels",Food Network
