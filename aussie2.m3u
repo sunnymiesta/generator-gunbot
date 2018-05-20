@@ -28,16 +28,16 @@ http://iptv.matthuisman.nz/au/Sydney/tv.101204200424.m3u8
 http://iptv.matthuisman.nz/au/Sydney/tv.101406020625.m3u8
 
 #EXTINF:-1 tvg-name="007" tvg-id="tv.101002210221" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.101002210221.png" group-title="Australian FreeView Channels",ABC
-http://iptv.matthuisman.nz/au/Sydney/tv.101002210221.m3u8
+http://iptv.matthuisman.nz/au/Sydney/tv.101002210221.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20
 
 #EXTINF:-1 tvg-name="008" tvg-id="tv.101002210224" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.101002210224.png" group-title="Australian FreeView Channels",ABC ME
-http://iptv.matthuisman.nz/au/Sydney/tv.101002210224.m3u8
+http://iptv.matthuisman.nz/au/Sydney/tv.101002210224.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20
 
 #EXTINF:-1 tvg-name="009" tvg-id="ABC News 24 AUS" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.101002210220.png" group-title="Australian FreeView Channels",ABC NEWS
-http://iptv.matthuisman.nz/au/Sydney/tv.101002210220.m3u8
+http://iptv.matthuisman.nz/au/Sydney/tv.101002210220.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20
 
 #EXTINF:-1 tvg-name="010" tvg-id="tv.101002210222" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.101002210222.png" group-title="Australian FreeView Channels",ABC2 / KIDS
-http://iptv.matthuisman.nz/au/Sydney/tv.101002210222.m3u8
+http://iptv.matthuisman.nz/au/Sydney/tv.101002210222.m3u8|X-Forwarded-For=52.62.247.239&User-Agent=FMLE%2F3.0+%28compatible%3B+FMSc%2F1.0%29&Referer=%20
 
 #EXTINF:-1 tvg-name="017" tvg-id="SBS One" tvg-logo="https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.320203000301.png" group-title="Australian FreeView Channels",SBS
 http://iptv.matthuisman.nz/au/Sydney/tv.320203000301.m3u8
